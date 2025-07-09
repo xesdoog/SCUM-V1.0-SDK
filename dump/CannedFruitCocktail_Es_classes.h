@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass CannedFruitCocktail_Es.CannedFruitCocktail_ES_C
+// Size: 0x90 (Inherited: 0x90)
+struct UCannedFruitCocktail_ES_C : UFoodItemEntitySetup {
+};
+

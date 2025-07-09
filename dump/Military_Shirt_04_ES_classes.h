@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass Military_Shirt_04_ES.Military_Shirt_04_ES_C
+// Size: 0x90 (Inherited: 0x90)
+struct UMilitary_Shirt_04_ES_C : UMilitary_Shirt_01_ES_C {
+};
+

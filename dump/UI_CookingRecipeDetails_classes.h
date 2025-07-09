@@ -1,0 +1,26 @@
+// WidgetBlueprintGeneratedClass UI_CookingRecipeDetails.UI_CookingRecipeDetails_C
+// Size: 0x3b8 (Inherited: 0x310)
+struct UUI_CookingRecipeDetails_C : UCookingRecipeDetailsWidget {
+	struct UImage* Image_78; // 0x310(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget; // 0x318(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_2; // 0x320(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_3; // 0x328(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_4; // 0x330(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_5; // 0x338(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_6; // 0x340(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_7; // 0x348(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_8; // 0x350(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_9; // 0x358(0x08)
+	struct UUI_CookingIngredientInfoWidget_C* UI_CookingIngredientInfoWidget_10; // 0x360(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget; // 0x368(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_2; // 0x370(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_3; // 0x378(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_4; // 0x380(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_5; // 0x388(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_6; // 0x390(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_7; // 0x398(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_8; // 0x3a0(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_10; // 0x3a8(0x08)
+	struct UUI_PossibleCookingIngredientWidget_C* UI_PossibleCookingIngredientWidget_207; // 0x3b0(0x08)
+};
+

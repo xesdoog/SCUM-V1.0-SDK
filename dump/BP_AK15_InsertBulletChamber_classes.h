@@ -1,0 +1,7 @@
+// BlueprintGeneratedClass BP_AK15_InsertBulletChamber.BP_AK15_InsertBulletChamber_C
+// Size: 0xa0 (Inherited: 0xa0)
+struct UBP_AK15_InsertBulletChamber_C : UInsertCartridge {
+
+	bool CanExecuteUsingData(struct FWeaponReloadData& Data); // Function BP_AK15_InsertBulletChamber.BP_AK15_InsertBulletChamber_C.CanExecuteUsingData // (Event|Public|HasOutParms|BlueprintCallable|BlueprintEvent|Const) // @ game+0x297fc00
+};
+

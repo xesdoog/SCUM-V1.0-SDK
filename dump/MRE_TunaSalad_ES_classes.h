@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass MRE_TunaSalad_ES.MRE_TunaSalad_ES_C
+// Size: 0x90 (Inherited: 0x90)
+struct UMRE_TunaSalad_ES_C : UFoodItemEntitySetup {
+};
+

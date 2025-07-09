@@ -1,0 +1,40 @@
+// AnimBlueprintGeneratedClass AnimBP_MAC10.AnimBP_MAC10_C
+// Size: 0x1068 (Inherited: 0x310)
+struct UAnimBP_MAC10_C : UWeaponAnimInstance {
+	struct FPointerToUberGraphFrame UberGraphFrame; // 0x310(0x08)
+	struct FAnimNode_Root AnimGraphNode_Root; // 0x318(0x30)
+	struct FAnimNode_Slot AnimGraphNode_Slot_7; // 0x348(0x48)
+	struct FAnimNode_SaveCachedPose AnimGraphNode_SaveCachedPose_2; // 0x390(0x158)
+	struct FAnimNode_BlendListByBool AnimGraphNode_BlendListByBool_3; // 0x4e8(0xa0)
+	struct FAnimNode_SequencePlayer AnimGraphNode_SequencePlayer_4; // 0x588(0x80)
+	struct FAnimNode_SequencePlayer AnimGraphNode_SequencePlayer_3; // 0x608(0x80)
+	struct FAnimNode_BlendListByBool AnimGraphNode_BlendListByBool_2; // 0x688(0xa0)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_8; // 0x728(0x28)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_7; // 0x750(0x28)
+	struct FAnimNode_ModifyBone AnimGraphNode_ModifyBone; // 0x778(0x108)
+	struct FAnimNode_ConvertComponentToLocalSpace AnimGraphNode_ComponentToLocalSpace; // 0x880(0x20)
+	struct FAnimNode_ConvertLocalToComponentSpace AnimGraphNode_LocalToComponentSpace; // 0x8a0(0x20)
+	struct FAnimNode_SaveCachedPose AnimGraphNode_SaveCachedPose; // 0x8c0(0x158)
+	struct FAnimNode_BlendListByEnum AnimGraphNode_BlendListByEnum_3; // 0xa18(0xb0)
+	struct FAnimNode_SequencePlayer AnimGraphNode_SequencePlayer_2; // 0xac8(0x80)
+	struct FAnimNode_SequencePlayer AnimGraphNode_SequencePlayer; // 0xb48(0x80)
+	struct FAnimNode_Slot AnimGraphNode_Slot_6; // 0xbc8(0x48)
+	struct FAnimNode_Slot AnimGraphNode_Slot_5; // 0xc10(0x48)
+	struct FAnimNode_Slot AnimGraphNode_Slot_4; // 0xc58(0x48)
+	struct FAnimNode_BlendListByEnum AnimGraphNode_BlendListByEnum_2; // 0xca0(0xb0)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_6; // 0xd50(0x28)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_5; // 0xd78(0x28)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_4; // 0xda0(0x28)
+	struct FAnimNode_BlendListByEnum AnimGraphNode_BlendListByEnum; // 0xdc8(0xb0)
+	struct FAnimNode_Slot AnimGraphNode_Slot_3; // 0xe78(0x48)
+	struct FAnimNode_Slot AnimGraphNode_Slot_2; // 0xec0(0x48)
+	struct FAnimNode_Slot AnimGraphNode_Slot; // 0xf08(0x48)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_3; // 0xf50(0x28)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose_2; // 0xf78(0x28)
+	struct FAnimNode_UseCachedPose AnimGraphNode_UseCachedPose; // 0xfa0(0x28)
+	struct FAnimNode_BlendListByBool AnimGraphNode_BlendListByBool; // 0xfc8(0xa0)
+
+	void AnimGraph(struct FPoseLink& AnimGraph); // Function AnimBP_MAC10.AnimBP_MAC10_C.AnimGraph // (HasOutParms|BlueprintCallable|BlueprintEvent) // @ game+0x297fc00
+	void ExecuteUbergraph_AnimBP_MAC10(int32_t EntryPoint); // Function AnimBP_MAC10.AnimBP_MAC10_C.ExecuteUbergraph_AnimBP_MAC10 // (Final|UbergraphFunction) // @ game+0x297fc00
+};
+

@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass Weapon_MP5_K_ES.Weapon_MP5_K_ES_C
+// Size: 0x90 (Inherited: 0x90)
+struct UWeapon_MP5_K_ES_C : UWeapon_MP5_ES_C {
+};
+
