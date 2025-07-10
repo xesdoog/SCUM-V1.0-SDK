@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_UI_ModularCodexEntryElement_VerticalContainer_HPP
+#define UE4SS_SDK_UI_ModularCodexEntryElement_VerticalContainer_HPP
+
+class UUI_ModularCodexEntryElement_VerticalContainer_C : public UModularCodexEntryElement_VerticalContainer
+{
+}; // Size: 0x280
+
+#endif

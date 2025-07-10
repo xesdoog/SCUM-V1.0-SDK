@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_UI_ModularTooltipElement_ValueWithModifier_Small_HPP
+#define UE4SS_SDK_UI_ModularTooltipElement_ValueWithModifier_Small_HPP
+
+class UUI_ModularTooltipElement_ValueWithModifier_Small_C : public UModularTooltipElement_ValueWithModifier
+{
+}; // Size: 0x320
+
+#endif

@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass Work_Jacket_01_ES.Work_Jacket_01_ES_C
-// Size: 0x90 (Inherited: 0x90)
-struct UWork_Jacket_01_ES_C : UClothesItemEntitySetup {
-};
-

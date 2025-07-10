@@ -1,0 +1,10 @@
+#ifndef UE4SS_SDK_BP_BlackHawk_DrawSlowInsertBolt_HPP
+#define UE4SS_SDK_BP_BlackHawk_DrawSlowInsertBolt_HPP
+
+class UBP_BlackHawk_DrawSlowInsertBolt_C : public UInsertCartridge
+{
+
+    bool CanExecuteUsingData(const FWeaponReloadData& Data);
+}; // Size: 0xA0
+
+#endif

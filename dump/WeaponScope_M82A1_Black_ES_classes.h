@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass WeaponScope_M82A1_Black_ES.WeaponScope_M82A1_Black_ES_C
-// Size: 0x90 (Inherited: 0x90)
-struct UWeaponScope_M82A1_Black_ES_C : UWeaponScope_M82A1_ES_C {
-};
-

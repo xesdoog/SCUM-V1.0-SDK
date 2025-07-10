@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_UI_Child_Metabolism_SPB_VitaminsAndMineralsBar_HPP
+#define UE4SS_SDK_UI_Child_Metabolism_SPB_VitaminsAndMineralsBar_HPP
+
+class UUI_Child_Metabolism_SPB_VitaminsAndMineralsBar_C : public UUI_Parent_Metabolism_SegmentedProgressBar_C
+{
+}; // Size: 0x320
+
+#endif

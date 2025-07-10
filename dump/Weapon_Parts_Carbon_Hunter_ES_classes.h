@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass Weapon_Parts_Carbon_Hunter_ES.Weapon_Parts_Carbon_Hunter_ES_C
-// Size: 0x90 (Inherited: 0x90)
-struct UWeapon_Parts_Carbon_Hunter_ES_C : UItemEntitySetup {
-};
-

@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass BP_MAC10_RemoveMagInsertMagChamber_Driver.BP_MAC10_RemoveMagInsertMagChamber_Driver_C
-// Size: 0x90 (Inherited: 0x90)
-struct UBP_MAC10_RemoveMagInsertMagChamber_Driver_C : UBP_WeaponReloadBase_Handgun_RemoveMagazineInsertMagazineChamber_Driver_C {
-};
-

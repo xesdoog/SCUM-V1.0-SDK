@@ -1,0 +1,10 @@
+#ifndef UE4SS_SDK_BP_ImprCrossbow_InsertBolt_HPP
+#define UE4SS_SDK_BP_ImprCrossbow_InsertBolt_HPP
+
+class UBP_ImprCrossbow_InsertBolt_C : public UInsertCartridge
+{
+
+    bool CanExecuteUsingData(const FWeaponReloadData& Data);
+}; // Size: 0xA0
+
+#endif

@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_DrawDebugZombieCapsulesOnLegacySpawnPoints_HPP
+#define UE4SS_SDK_DrawDebugZombieCapsulesOnLegacySpawnPoints_HPP
+
+class UDrawDebugZombieCapsulesOnLegacySpawnPoints_C : public UAdminCommand_DrawDebugZombieCapsulesOnLegacySpawnPoints
+{
+}; // Size: 0xA0
+
+#endif

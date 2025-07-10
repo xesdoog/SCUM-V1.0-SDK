@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass MTZ_Factory_Large_Military_Character_Encounter.MTZ_Factory_Large_Military_Character_Encounter_C
-// Size: 0x588 (Inherited: 0x588)
-struct UMTZ_Factory_Large_Military_Character_Encounter_C : UBP_EncounterHordeBase_C {
-};
-

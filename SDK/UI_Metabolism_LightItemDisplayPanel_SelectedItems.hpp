@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_UI_Metabolism_LightItemDisplayPanel_SelectedItems_HPP
+#define UE4SS_SDK_UI_Metabolism_LightItemDisplayPanel_SelectedItems_HPP
+
+class UUI_Metabolism_LightItemDisplayPanel_SelectedItems_C : public UMetabolismLightItemDisplayPanel
+{
+}; // Size: 0x2A8
+
+#endif

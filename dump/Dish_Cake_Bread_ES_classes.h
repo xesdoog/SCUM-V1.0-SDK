@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass Dish_Cake_Bread_ES.Dish_Cake_Bread_ES_C
-// Size: 0x90 (Inherited: 0x90)
-struct UDish_Cake_Bread_ES_C : UCookedFoodItemEntitySetup {
-};
-

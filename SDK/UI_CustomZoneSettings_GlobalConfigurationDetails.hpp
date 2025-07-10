@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_UI_CustomZoneSettings_GlobalConfigurationDetails_HPP
+#define UE4SS_SDK_UI_CustomZoneSettings_GlobalConfigurationDetails_HPP
+
+class UUI_CustomZoneSettings_GlobalConfigurationDetails_C : public UCustomZoneSettingsConfigurationDetails
+{
+}; // Size: 0x310
+
+#endif

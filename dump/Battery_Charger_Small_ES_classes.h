@@ -1,5 +1,0 @@
-// BlueprintGeneratedClass Battery_Charger_Small_ES.Battery_Charger_Small_ES_C
-// Size: 0x90 (Inherited: 0x90)
-struct UBattery_Charger_Small_ES_C : UItemEntitySetup {
-};
-

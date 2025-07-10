@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_HandAbrasions_ApplyBandagesOrDisinfect_HPP
+#define UE4SS_SDK_HandAbrasions_ApplyBandagesOrDisinfect_HPP
+
+class UHandAbrasions_ApplyBandagesOrDisinfect_C : public UPrisonerBodyConditionTreatInteraction_ApplyBandagesOrDisinfect
+{
+}; // Size: 0x128
+
+#endif
