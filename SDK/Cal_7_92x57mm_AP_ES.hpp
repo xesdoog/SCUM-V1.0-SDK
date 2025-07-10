@@ -1,8 +1,0 @@
-#ifndef UE4SS_SDK_Cal_7_92x57mm_AP_ES_HPP
-#define UE4SS_SDK_Cal_7_92x57mm_AP_ES_HPP
-
-class UCal_7_92x57mm_AP_ES_C : public UCal_7_92x57mm_ES_C
-{
-}; // Size: 0x90
-
-#endif

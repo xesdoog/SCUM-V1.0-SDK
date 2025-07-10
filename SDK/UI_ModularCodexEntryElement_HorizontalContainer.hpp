@@ -1,8 +1,0 @@
-#ifndef UE4SS_SDK_UI_ModularCodexEntryElement_HorizontalContainer_HPP
-#define UE4SS_SDK_UI_ModularCodexEntryElement_HorizontalContainer_HPP
-
-class UUI_ModularCodexEntryElement_HorizontalContainer_C : public UModularCodexEntryElement_HorizontalContainer
-{
-}; // Size: 0x280
-
-#endif

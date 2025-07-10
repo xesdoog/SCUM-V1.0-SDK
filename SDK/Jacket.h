@@ -1,0 +1,5 @@
+// BlueprintGeneratedClass Jacket.Jacket_C
+// Size: 0x90 (Inherited: 0x90)
+struct UJacket_C : UClothesCharacterMeshBase_C {
+};
+

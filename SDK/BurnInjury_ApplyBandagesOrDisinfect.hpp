@@ -1,8 +1,0 @@
-#ifndef UE4SS_SDK_BurnInjury_ApplyBandagesOrDisinfect_HPP
-#define UE4SS_SDK_BurnInjury_ApplyBandagesOrDisinfect_HPP
-
-class UBurnInjury_ApplyBandagesOrDisinfect_C : public UPrisonerBodyConditionTreatInteraction_ApplyBandagesOrDisinfect
-{
-}; // Size: 0x128
-
-#endif

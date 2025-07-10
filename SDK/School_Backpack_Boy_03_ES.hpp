@@ -1,8 +1,0 @@
-#ifndef UE4SS_SDK_School_Backpack_Boy_03_ES_HPP
-#define UE4SS_SDK_School_Backpack_Boy_03_ES_HPP
-
-class USchool_Backpack_Boy_03_ES_C : public USchool_Backpack_01_ES_C
-{
-}; // Size: 0x90
-
-#endif

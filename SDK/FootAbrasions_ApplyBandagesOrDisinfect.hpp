@@ -1,8 +1,0 @@
-#ifndef UE4SS_SDK_FootAbrasions_ApplyBandagesOrDisinfect_HPP
-#define UE4SS_SDK_FootAbrasions_ApplyBandagesOrDisinfect_HPP
-
-class UFootAbrasions_ApplyBandagesOrDisinfect_C : public UPrisonerBodyConditionTreatInteraction_ApplyBandagesOrDisinfect
-{
-}; // Size: 0x128
-
-#endif

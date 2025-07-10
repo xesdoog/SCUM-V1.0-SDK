@@ -1,8 +1,0 @@
-#ifndef UE4SS_SDK_BleedingInjury_ApplyBandagesOrDisinfect_HPP
-#define UE4SS_SDK_BleedingInjury_ApplyBandagesOrDisinfect_HPP
-
-class UBleedingInjury_ApplyBandagesOrDisinfect_C : public UPrisonerBodyConditionTreatInteraction_ApplyBandagesOrDisinfect
-{
-}; // Size: 0x128
-
-#endif
